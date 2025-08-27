@@ -6,8 +6,8 @@ You should download and use only .exe file!
 VirusTotal scan <a href="https://www.virustotal.com/gui/file/233f2a9eed01c60531bda441133d1b84f0c77c016f216fc69802afeaae29c978?nocache=1"> here </a>
 
 <img width="376" height="162" alt="image" src="https://github.com/user-attachments/assets/1201f222-cdc6-4340-9495-f034dd20745d" />
-
-First of all, you have to create a new app on <a href="https://discord.com/developers/applications">Discord Developers </a> and copy it's Client ID. DONT USE CID USED ON THIS SCREENSHOT, ITS NOT A REAL ID. Name of this app will be shown in your profile, so choose a good one. Now, you should open this app, it will ask you for this Client ID, paste it and press "Enter" on your keyboard. Thats all!
+<h5 style="color: red;">DONT USE CID USED ON THIS SCREENSHOT, ITS NOT A REAL ID.</h5>
+First of all, you have to create a new app on <a href="https://discord.com/developers/applications">Discord Developers </a> and copy it's Client ID. Name of this app will be shown in your profile, so choose a good one. Now, you should open this app, it will ask you for this Client ID, paste it and press "Enter" on your keyboard. Thats all!
 When you are in game, it will display your gamemode, champion, level, KDA and current gold, if you are offline, it will output the word "Offline" and if there are any problems with getting data, it will show it to. 
 
 
