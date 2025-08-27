@@ -5,3 +5,4 @@
 You should download and use only .exe file!
 
 Virus Total of .exe file: <a href="https://www.virustotal.com/gui/file/233f2a9eed01c60531bda441133d1b84f0c77c016f216fc69802afeaae29c978?nocache=1"> here </a>
+Since this file works with some ports on your localhost, Windows defender will remove it, but u can allow it on your computer.
